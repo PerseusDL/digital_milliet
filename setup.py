@@ -6,7 +6,7 @@ setup(
     include_package_data=True,
     test_suite="tests",
     install_requires=[
-        'flask==0.12',
+        'flask==1.0',
         "Flask-OAuthlib>=0.9.3",
         "Flask-Babel==0.9",
         "Flask-Bower==1.0.1",
