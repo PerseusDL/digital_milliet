@@ -13,7 +13,7 @@ setup(
         "requests>=2.8.1",
         "Flask-Cache==0.13.1",
         "requests-cache==0.4.9",
-        "flask-cors==2.0.0",
+        "flask-cors==3.0.9",
         "Flask-PyMongo==0.3.1",
         "Flask-Markdown",
         "MyCapytain==2.0.0b8",
